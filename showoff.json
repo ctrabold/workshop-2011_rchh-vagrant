@@ -1,0 +1,12 @@
+{
+  "name": "Share Vagrant Love",
+  "sections": [
+    { "section" : "intro" },
+    { "section" : "challenge" },
+    { "section" : "philosophy" },
+    { "section" : "install" },
+    { "section" : "lessons_learned" },
+    { "section" : "future" },
+    { "section" : "thank_you" }
+  ]
+}
